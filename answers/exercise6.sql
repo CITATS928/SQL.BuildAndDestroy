@@ -1,0 +1,1 @@
+ALTER table Users ADD COLUMN Birthday DATE;
